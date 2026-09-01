@@ -1,22 +1,61 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Lima+Batista+Siqueira;I'm+18+years+old;I+am+from+Belo+Horizonte,+MG;I+study+analysis+and+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<samp>
 
+# GABRIEL@MATRIX:~$ ./init.sh
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=geelio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Lima Batista Siqueira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geelio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+`wake up, neo...`
+
+Software developer in training · Belo Horizonte, Brazil
+
+</samp>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF41" width="100%" alt="Green divider" />
+
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geelio&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+```text
+> identity     Gabriel Lima Batista Siqueira
+> education    Systems Analysis and Development @ SENAC
+> focus        web development · backend · automation
+> status       learning, building, shipping
+```
 
-<div align="center">  
-<a href="https://www.instagram.com/glimabatista/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
+## ./about
+
+I turn ideas into working software and use every project as a reason to go deeper.
+Currently exploring the space between **web applications**, **data** and **automation**.
+
+```js
+const gabriel = {
+  code: ["JavaScript", "Python", "HTML", "CSS", "SQL"],
+  tools: ["Node.js", "PostgreSQL", "Git", "Vercel"],
+  mindset: "There is no spoon. Only another problem to solve."
+};
+```
+
+## ./stack
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-050505?style=flat-square&logo=javascript&logoColor=00FF41" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-050505?style=flat-square&logo=python&logoColor=00FF41" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-050505?style=flat-square&logo=nodedotjs&logoColor=00FF41" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-050505?style=flat-square&logo=postgresql&logoColor=00FF41" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-050505?style=flat-square&logo=git&logoColor=00FF41" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-050505?style=flat-square&logo=vercel&logoColor=00FF41" alt="Vercel" />
+</div>
+
+## ./signal
+
+<a href="https://www.instagram.com/glimabatista/">
+  <img src="https://img.shields.io/badge/Instagram-050505?style=flat-square&logo=instagram&logoColor=00FF41" alt="Instagram" />
+</a>
+<a href="https://github.com/geelio">
+  <img src="https://img.shields.io/badge/GitHub-050505?style=flat-square&logo=github&logoColor=00FF41" alt="GitHub" />
+</a>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{geelio}/count.svg" /></p> 
-<br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<sub><samp>follow the white rabbit · <img src="https://komarev.com/ghpvc/?username=geelio&color=00FF41&style=flat-square&label=connections" alt="Profile views" /></samp></sub>
+
+</div>
